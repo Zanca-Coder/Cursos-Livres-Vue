@@ -1,0 +1,50 @@
+.q-pa-md {
+    max-width: 600px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+.q-select {
+    width: 145px;
+    margin-left: 20px;
+}
+
+#background {
+    background-color: #D2D6DE;
+}
+
+#title {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.q-form {
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.q-input {
+    margin-left: 20px;
+}
+
+#divDesc {
+    width: 500px;
+    margin-left: 15px;
+}
+
+.op1 {
+    padding-left: 10%;
+}
+
+.op2 {
+    padding-left: 10%;
+}
+
+.op3 {
+    padding-left: 3%;
+}

@@ -1,0 +1,8 @@
+.q-pa-md {
+    max-width: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 40%;
+}

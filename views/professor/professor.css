@@ -1,0 +1,30 @@
+.q-pa-md {
+    max-width: 600px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+.q-select {
+    margin-bottom: 35px;
+}
+
+#title {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.q-form {
+    background-color: white;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#background {
+    background-color: #D2D6DE;
+}
